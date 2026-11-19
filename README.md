@@ -1,0 +1,1 @@
+# gold-rails-paper
